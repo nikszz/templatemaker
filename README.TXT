@@ -348,4 +348,4 @@ Change log
 ==========
 
 2007-09-20    0.1.1    Created HTMLTemplate
-2007-07-06    0.1      Initial release
+2007-07-06    0.1      Initial Release
